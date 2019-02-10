@@ -6,4 +6,6 @@ This repository is used to store various HTML/JS examples using <a href="https:/
 
 The password reset example is a mix between Best Buy's implementation and Stanford's <a href="https://uit.stanford.edu/service/accounts/passwords/quickguide">password guide.</a>
 
+![](https://i.imgur.com/zucKK1Y.png)
+
 ![](https://media.giphy.com/media/1zk71zGLIIPw3FegVC/giphy.gif)

@@ -8,4 +8,5 @@ The password reset example is a mix between Best Buy's implementation and Stanfo
 
 ![](https://i.imgur.com/zucKK1Y.png)
 
+https://i.imgur.com/2jfX60Z.gifv
 ![](https://media.giphy.com/media/1zk71zGLIIPw3FegVC/giphy.gif)
